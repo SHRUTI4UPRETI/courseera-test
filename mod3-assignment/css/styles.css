@@ -2,7 +2,7 @@ body {
   font-size: 16px;
   color: #fff;
   background-color: #03CDF8;
-  font-family: 'Oxygen', sans-serif;
+  font-style: normal;
 }
 
 /** HEADER **/
@@ -24,7 +24,6 @@ body {
 }
 
 .navbar-brand h1 { /* Restaurant name */
-  font-family: 'Lora', serif;
   color: #557c3e;
   font-size: 1.75em;
   text-transform: uppercase;
